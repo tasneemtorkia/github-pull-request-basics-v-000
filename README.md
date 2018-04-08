@@ -17,7 +17,7 @@ the owner working on their codebase alone, _anyone_ can contribute: tests,
 documentation fixes, new features, awesome layout and graphics, etc.
 
 There are some vocabulary words that we need to keep in mind in order to make
-sure that we're all on the same page.
+sure that we're all on the same page..4
 
 * **revision control system**: a software program that keeps tracks of updates /
   deletions / additions / changes to a collection of content (usually a
