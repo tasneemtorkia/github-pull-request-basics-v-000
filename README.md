@@ -13,11 +13,11 @@ owner of a receiving repository to take your changes, that you made in a
 parallel universe ("your fork") and "pull" them into the owner's repository.
 Pull requests power the open source community. Through this process,
 anyone can fork a repo, make changes and submit a pull request. Instead of
-the owner working on their codebase alone, _anyone_ can contribute: tests,
+the owner working on their codebase alone, anyone can contribute: tests,
 documentation fixes, new features, awesome layout and graphics, etc.
 
 There are some vocabulary words that we need to keep in mind in order to make
-sure that we're all on the same page.
+sure that we're all on the same page..4
 
 * **revision control system**: a software program that keeps tracks of updates /
   deletions / additions / changes to a collection of content (usually a
